@@ -23,10 +23,6 @@
 * In a functional connectivity analysis, no-response WM trials showed greater connectivity between canonical DMN areas than correct-response and incorrect-response trials, strengthening our interpretation that behaviorally operationalized boredom is linked to DMN activity. 
 
 
-## Definitions
-**Decision point:** time point after stimulus presentation at which decoder confidence reaches a threshold  
-**Deliberation time:** time difference between the "decision points" in V1 and M1
-
 ## Questions
 * Can we detect when someone is bored in the fMRI scanner?
   * Q1: Can we use a classifier to decode task state (rest vs. WM) with significantly above-chance accuracy?
