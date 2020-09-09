@@ -1,5 +1,12 @@
 # Neuromatch Academy 2020 - Ethereal Pony Group Project
 
+## Authors
+
+Abhishek Dave
+Haitham El Mengad
+Nathan Young
+Sean Noah
+
 [Video Presentation](https://youtu.be/20iHL1mIigU)
 
 ## Overview
